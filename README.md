@@ -1,6 +1,6 @@
 # shellcatcher
 
-I wanted to expirement different capabilities of Terraform such as use of providers, executing local and remote commands, copying files, and executing external scripts. So i decided to build a tool to demonstrate a very common offensive security workflow, a system to catch shells..
+I wanted to expirement different capabilities of Terraform such as use of providers, executing local and remote commands, copying files, and executing external scripts. So i decided to build a tool to demonstrate a very common offensive security workflow, use IaC to create a system to catch shells..
 
 ## Objective  
 
